@@ -1,20 +1,38 @@
 ---
-title:  "Nobody else was around."
+title:  "Isle of Athlon!"
 subtitle: "A Beautiful shot during the night."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
+###Isle of Athlon!
+The Great Rift is over, the old Ring of Fire lies in ruins, the entire cosmos smattered with its debris from the ultimate catastrophe.
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+And so it all began a billion years ago....
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+It was the day of the Athlympics, the Ring’s biggest sporting event. The humongous arena boasted of huge swimming pools, various courts, wrestling rings, skating rinks, and athletic tracks, besides housing huge restaurants and hotels for participants and spectators alike. It was a mini planet in itself.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Nobody expected the occurrence of a huge explosion, which devastated the large stadium and separated the whole region from the Ring of Fire. The survivors were mostly sportsmen and a few spectators. When they came back to their senses, they found that they were floating in dark space, surrounded with asteroids, comets, meteoroids ... and weird aliens ! The first few days went without much work, since food and water was available but slowly the supplies reached the verge of depletion. Now their survival depended on only one option - to hunt down the diabolical beings floating into the remnants of their devastated dimension. But who would hunt them down?
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+The shot-put and javelin throwers crafted a plan – the beasts shall be attracted and injured with the shot-put balls and later hunted down with the javelins; it worked. Then the chess grandmasters started synthing water from the hydrogen and the oxygen tanks in the debris. It took them many years, but life was finally restored .... to a new Athlon.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Present Time.
+
+It was time for the Athlympics again. Just as the Athlon Torch was lit to mark the beginning of the event, the sun took on a green hue. The dreaded tell-tale pirates, sun-raiders of the Apostle Galaxy, the Scavengers had attacked ! The Athlonites had no idea that they would witness an overwhelming Scavenger blitzkrieg ! The brave sportsmen rushed the women and children to safety, and all protective measures and defenses were adopted. But they knew they were no match for the mighty Scavengers.
+
+And suddenly an unthinkable miracle happened - the Scavengers started retreating to their galaxy! The Athlonites started celebrating, only to later know the real reason of the miracle - the heroics of the mighty Techeon and Shutter Island. They decided to transport the Athlympics to the Ring of Fire where the other islands too would meet after a long time. With the Athlympics, ADVAITA would become a never-before-seen spectacle in the history of the Ring of Fire.
+seoatiiit
+
+FUTSAL
+A game much like football which is played over a smaller pitch and with a slightly different version of rules
+[Read More](www.advaita.io)
+
+SUPER SIX
+Cricket is the most popular game in India. Teams from different colleges participate to win this unique format of the game
+[Read More](www.advaita.io)
+
+DOTA-2
+DOTA 2 is one of the most popuular game in the world of esports.
+[Read More](www.advaita.io)
+seoatiiit
